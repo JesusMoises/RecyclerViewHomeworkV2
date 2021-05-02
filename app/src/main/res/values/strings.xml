@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewHomeworkV2</string>
+    <string name="recy_title">Recipes</string>
+
+    <string name="recipe1_name">Low-Carb Cream of Mushroom Soup</string>
+    <string name="recipe1_txt">
+        This creamy mushroom soup uses cream cheese to beautifully
+        thicken this delicious soup. The low-carb, high fat proportions are perfect for a
+        ketogenic lifestyle.
+    </string>
+    <string name="prueba">Hola</string>
+    <string name="segunda_activity">Segunda</string>
+    <string name="back_btn">Regresar</string>
+    <string name="details_recipe">Details</string>
+</resources>
